@@ -8,7 +8,7 @@ class Header extends Component {
       <header className="Header">
         <img src={logo} className="Logo" alt="logo" />
         <p>
-          🐙 Edit <code>src/App.js</code> and save to reload.
+          🕛 <code>S L E E P T R A C K E R 🕦</code>
         </p>
         <a
           className="Link"
